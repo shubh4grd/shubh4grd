@@ -1,5 +1,5 @@
 
-# Hola, I'm [Shubham Kumar Burman!](https://shubh4grd.github.io/) 👋
+# Hi, I'm [Shubham Kumar Burman!](https://shubh4grd.github.io/) 👋
 
 
 

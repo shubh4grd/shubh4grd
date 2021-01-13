@@ -1,8 +1,9 @@
 
 # Hi, I'm [Shubham Kumar Burman!](https://shubh4grd.github.io/) 👋
 
-
-<img align="right" src="https://i.postimg.cc/d3qQdKhf/robotintro-unscreen.gif" width="300px" height="300px" />
+<!--
+<img align="right" src="https://i.postimg.cc/d3qQdKhf/rob-unscreen.gif" width="300px" height="300px" />
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=blue&style=plastic" alt="shubh4grd" /> </p>
 

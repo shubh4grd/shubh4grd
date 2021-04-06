@@ -1,11 +1,10 @@
-
-# Hi, I'm [Shubham Kumar Burman!](https://shubh4grd.github.io/) 👋
-
+<h1 align="center">Hi, I'm <a href="https://shubh4grd.github.io/">Shubham Kumar Burman</a> 👋</h1>
+<h3 align="center">Web Developer</h3>
 <!--
 <img align="right" src="https://i.postimg.cc/d3qQdKhf/rob-unscreen.gif" width="300px" height="300px" />
 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh4grd" alt="shubh4grd" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh4grd&theme=nord" alt="shubh4grd" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=blue&style=plastic" alt="shubh4grd" /> </p>
 

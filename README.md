@@ -3,8 +3,8 @@
 <!--
 <img align="right" src="https://i.postimg.cc/d3qQdKhf/rob-unscreen.gif" width="300px" height="300px" />
 -->
+<p><img src="https://github-profile-trophy.vercel.app/?username=shubh4grd&theme=nord&row=1&column=7" alt="shubh4grd" /></p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh4grd&theme=nord" alt="shubh4grd" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=blue&style=plastic" alt="shubh4grd" /> </p>
 

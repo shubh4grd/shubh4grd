@@ -23,11 +23,11 @@
 
 
 <!-- - 🔭 I’m currently working on [ Portfolio](https://github.com/shubh4grd/shubh4grd.github.io). -->
-- 🌱 I’m currently learning more about React.
+- 🌱 I’m currently learning more about Angular.
 - 👯 I’m looking to collaborate for Web Development Tasks.
 - 📫 How to reach me: [Insta - @shubh4grd](https://instagram.com/shubh4grd/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: The famous person who inspires me most is Aman Dhattarwal(Aman Bhaiya).
+- <!--⚡ Fun fact: The famous person who inspires me most is Aman Dhattarwal(Aman Bhaiya).-->
 
 [![Twitter: shubh4grd](https://img.shields.io/twitter/follow/shubh4grd?style=social)](https://twitter.com/shubh4grd)
 [![Linkedin: shubham](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-kumar-burman/)](https://www.linkedin.com/in/shubham-kumar-burman/)

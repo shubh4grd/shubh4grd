@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://shubh4grd.github.io/">Shubham Kumar Burman</a> 👋</h1>
-<h3 align="center">| Developer | Programmer | Student |</h3>
+<h3 align="center">| Developer | Programmer | Learner |</h3>
 <!--
 <img align="right" src="https://i.postimg.cc/d3qQdKhf/rob-unscreen.gif" width="300px" height="300px" />
 -->

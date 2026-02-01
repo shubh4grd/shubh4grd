@@ -25,7 +25,7 @@
 <!-- - 🔭 I’m currently working on [ Portfolio](https://github.com/shubh4grd/shubh4grd.github.io). -->
 - 🌱 I’m currently learning more about Angular.
 - 👯 I’m looking to collaborate for Web Development Tasks.
-- 📫 How to reach me: [Insta - @shubh4grd](https://instagram.com/aapkaburman/)
+- 📫 How to reach me: [Insta - @aapkaburman](https://instagram.com/aapkaburman/)
 - 😄 Pronouns: He/His
 <!--- ⚡ Fun fact: The famous person who inspires me most is Aman Dhattarwal(Aman Bhaiya).-->
 

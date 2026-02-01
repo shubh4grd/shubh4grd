@@ -3,7 +3,7 @@
 <!--
 <img align="right" src="https://i.postimg.cc/d3qQdKhf/rob-unscreen.gif" width="300px" height="300px" />
 -->
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shubh4grd&theme=nord&row=1&column=7" alt="shubh4grd" /></p>
+<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shubh4grd&theme=nord&row=1&column=7" alt="shubh4grd" /></p> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=blue&style=plastic" alt="shubh4grd" /> </p>
@@ -47,12 +47,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
-<a href="https://github.com/shubh4grd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4grd&theme=light&hide_langs_below=1" />
-</a>
+<!-- <a href="https://github.com/shubh4grd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4grd&theme=light&hide_langs_below=1" /> -->
+<!-- </a>
 <a href="https://github.com/shubh4grd">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh4grd&show_icons=true&theme=light&line_height=27" alt="Shubham's github stats"/>
-</a>
+</a> -->
 
 ## <div align="center">Show some ❤️ by starring some of the repositories!</div>
 
